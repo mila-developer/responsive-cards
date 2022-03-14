@@ -1,2 +1,2 @@
 # responsive-cards
-![image](https://user-images.githubusercontent.com/81877746/158168520-804fbdc4-9fb6-48e8-945d-9c98799c3f08.png)
+![Capturestarwars](https://user-images.githubusercontent.com/81877746/158171338-48e5a6b6-3b59-4bf2-868e-16a5ce8306cd.PNG)
